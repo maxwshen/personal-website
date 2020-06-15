@@ -1,0 +1,932 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ccb",
+				"cr_cbc_convert"
+			],
+			[
+				"unpl",
+				"unexplored_fv"
+			],
+			[
+				"nodes",
+				"node_set"
+			],
+			[
+				"unple",
+				"unexplored_nodes"
+			],
+			[
+				"dep",
+				"depths"
+			],
+			[
+				"unexplo",
+				"unexplored_node"
+			],
+			[
+				"uen",
+				"unexplored_boundary"
+			],
+			[
+				"numter",
+				"num_terminal_nodes_already_done"
+			],
+			[
+				"numalrea",
+				"num_already_in_queue"
+			],
+			[
+				"sources",
+				"source_seq"
+			],
+			[
+				"nontno",
+				"nont_node_dd"
+			],
+			[
+				"sourcs",
+				"source_seq"
+			],
+			[
+				"annott",
+				"annotate_nonterminal_node"
+			],
+			[
+				"adde",
+				"add_edge"
+			],
+			[
+				"nonterm",
+				"nonterminal_stat"
+			],
+			[
+				"contain",
+				"contains_ngg_pam_tracr_rna"
+			],
+			[
+				"promo",
+				"contains_promoter"
+			],
+			[
+				"item",
+				"item_val"
+			],
+			[
+				"currs",
+				"curr_stats"
+			],
+			[
+				"new",
+				"new_queue"
+			],
+			[
+				"parenst",
+				"parent_stats"
+			],
+			[
+				"cutsite",
+				"find_cutsite"
+			],
+			[
+				"parend",
+				"parent_df"
+			],
+			[
+				"fract",
+				"frac_terminal"
+			],
+			[
+				"conta",
+				"contains_ngg_pam_tracr_rna"
+			],
+			[
+				"kgd",
+				"kgids_sorted"
+			],
+			[
+				"G_hidden-selected-gen",
+				"G_hidden-selected-gene"
+			],
+			[
+				"G_hidden",
+				"G_hidden-selected-genome"
+			],
+			[
+				"single",
+				"single_default"
+			],
+			[
+				"dels",
+				"del_start"
+			],
+			[
+				"nc",
+				"nclicks"
+			],
+			[
+				"B_tablesta",
+				"B_table-stats-signal"
+			],
+			[
+				"cache",
+				"make_table_stats_cache"
+			],
+			[
+				"indelphisum",
+				"indelphi_summary_cache"
+			],
+			[
+				"indec",
+				"indelphi_summary_cache"
+			],
+			[
+				"microhomolog",
+				"microhomology-less"
+			],
+			[
+				"cur",
+				"curr_opt"
+			],
+			[
+				"G_gen",
+				"G_gene-dropdown"
+			],
+			[
+				"allstat",
+				"all_stats"
+			],
+			[
+				"G_dropdown",
+				"G_gene-dropdown"
+			],
+			[
+				"dotw",
+				"dot_width"
+			],
+			[
+				"statsc",
+				"stats_col"
+			],
+			[
+				"mhlsd",
+				"mhless_dd"
+			],
+			[
+				"mhlesd",
+				"mhless_dd"
+			],
+			[
+				"indelle",
+				"indel_len_range"
+			],
+			[
+				"indlet",
+				"indel_types"
+			],
+			[
+				"indet",
+				"indel_types"
+			],
+			[
+				"indell",
+				"indel_len_range"
+			],
+			[
+				"fixed",
+				"fixedwidth_indel_len"
+			],
+			[
+				"fx",
+				"fixedwidth_mhbp"
+			],
+			[
+				"fix",
+				"fixedwidth_freq"
+			],
+			[
+				"add",
+				"add_genotype_column"
+			],
+			[
+				"S_hiddenp",
+				"S_hidden-pred-df"
+			],
+			[
+				"S_hiden",
+				"S_hidden-pred-df-summary"
+			],
+			[
+				"numm",
+				"num_mhless_cats"
+			],
+			[
+				"mhl",
+				"mh_len"
+			],
+			[
+				"mhel",
+				"mh_len"
+			],
+			[
+				"start",
+				"start_time"
+			],
+			[
+				"init",
+				"init_kgXref"
+			],
+			[
+				"usedcod",
+				"used_codingstart"
+			],
+			[
+				"usedco",
+				"used_codingend"
+			],
+			[
+				"used",
+				"used_exonstart"
+			],
+			[
+				"exonse",
+				"exon_seq"
+			],
+			[
+				"exonen",
+				"exon_end"
+			],
+			[
+				"exonsta",
+				"exon_start"
+			],
+			[
+				"S_cell",
+				"S_hidden-chosen-celltype"
+			],
+			[
+				"S_hidne",
+				"S_hidden-chosen-celltype"
+			],
+			[
+				"S_hidden",
+				"S_hidden-chosen-celltype"
+			],
+			[
+				"Dislib",
+				"DisLib-mES-controladj"
+			],
+			[
+				"weigh",
+				"ontargetpos_weight"
+			],
+			[
+				"alter",
+				"alternate_results"
+			],
+			[
+				"corre",
+				"corrected_aas"
+			],
+			[
+				"splitd",
+				"split_idxs"
+			],
+			[
+				"pred",
+				"pred_precise_aa_freq"
+			],
+			[
+				"edip",
+				"edit_pattern"
+			],
+			[
+				"aa",
+				"aa_to_dna_dict"
+			],
+			[
+				"feat",
+				"feature_vector"
+			],
+			[
+				"nump",
+				"num_printed"
+			],
+			[
+				"eps",
+				"ep_strings"
+			],
+			[
+				"target",
+				"target_base"
+			],
+			[
+				"tta",
+				"total_readcount"
+			],
+			[
+				"tt",
+				"total"
+			],
+			[
+				"newpo",
+				"newpos"
+			],
+			[
+				"newp",
+				"newpos"
+			],
+			[
+				"Na",
+				"NAMES_test"
+			],
+			[
+				"Names",
+				"NAMES_train"
+			],
+			[
+				"get",
+				"get_all_possible_edits"
+			],
+			[
+				"fea",
+				"feature_vector"
+			],
+			[
+				"train",
+				"train_exps"
+			],
+			[
+				"NAMEST",
+				"NAMES_train"
+			],
+			[
+				"numed",
+				"num_editable_cons"
+			],
+			[
+				"enco",
+				"encoded"
+			],
+			[
+				"grnast",
+				"grna_start_idx"
+			],
+			[
+				"expec",
+				"expected_grna"
+			],
+			[
+				"attr",
+				"attr_lines"
+			],
+			[
+				"attrl",
+				"attr_line"
+			],
+			[
+				"genom",
+				"genome_build"
+			],
+			[
+				"hg",
+				"hg_build"
+			],
+			[
+				"ki",
+				"kgid"
+			],
+			[
+				"randomse",
+				"random_seed"
+			],
+			[
+				"parasm",
+				"param_scale"
+			],
+			[
+				"nn_",
+				"nn_params"
+			],
+			[
+				"num",
+				"num_to_fill"
+			],
+			[
+				"samples",
+				"sample_size"
+			],
+			[
+				"insf",
+				"ins_fq"
+			],
+			[
+				"adg",
+				"ag_df"
+			],
+			[
+				"reverse",
+				"reverse_complement"
+			],
+			[
+				"starti",
+				"start_idx"
+			],
+			[
+				"expde",
+				"exp_design"
+			],
+			[
+				"expd",
+				"exp_design"
+			],
+			[
+				"targ",
+				"target_site"
+			],
+			[
+				"attrlin",
+				"attr_lines"
+			],
+			[
+				"genli",
+				"gene_lines"
+			],
+			[
+				"sxi",
+				"sixmers"
+			],
+			[
+				"randpos",
+				"random_positions"
+			],
+			[
+				"genest",
+				"gene_strand"
+			],
+			[
+				"B_row",
+				"B_row_dropdown-sortcol"
+			],
+			[
+				"selerow",
+				"selected_row_indices"
+			],
+			[
+				"B_stats",
+				"B_plot-stats-div"
+			],
+			[
+				"B_adv_",
+				"B_adv_matchseq"
+			],
+			[
+				"defau",
+				"default_value"
+			],
+			[
+				"encodd",
+				"encodeddna"
+			],
+			[
+				"leftoverd",
+				"leftoverdna"
+			],
+			[
+				"B_poi",
+				"B_adv_position_of_interest"
+			],
+			[
+				"bathc",
+				"parse_valid_url_path_batch"
+			],
+			[
+				"nclick",
+				"n_clicks"
+			],
+			[
+				"nclic",
+				"n_clicks"
+			],
+			[
+				"vertical",
+				"verticalAlign"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"nuc",
+				"Set Syntax: Nucleotides"
+			],
+			[
+				"preferences:",
+				"Preferences: Color Highlight Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Package Control: Remove Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"monokai",
+				"Monokai Pro: select theme"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"package control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"shel",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"shell",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"remove package\t",
+				"Package Control: Remove Package"
+			],
+			[
+				"Anaconda: test",
+				"Anaconda: Run Last Test"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"package control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"sh",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"n",
+				"Set Syntax: Nucleotides"
+			],
+			[
+				"s nuc",
+				"Set Syntax: Nucleotides"
+			],
+			[
+				"set plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			],
+			[
+				"vmen",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 421.0
+	},
+	"console":
+	{
+		"height": 212.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/maxws/Dropbox (MIT)/WSL/prj/personal-website"
+	],
+	"file_history":
+	[
+		"/C/Users/maxws/Dropbox (MIT)/WSL/prj/personal-website/personal/themes/ananke/layouts/partials/page-header.html",
+		"/C/Users/maxws/Dropbox (MIT)/WSL/prj/personal-website/personal/config.toml",
+		"/C/Users/maxws/Dropbox (MIT)/WSL/prj/personal-website/personal/content/posts/first.md",
+		"/C/Users/maxws/Dropbox (MIT)/WSL/prj/personal-website/personal/themes/ananke/layouts/index.html",
+		"/C/Users/maxws/Dropbox (MIT)/WSL/prj/personal-website/personal/themes/ananke/theme.toml",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/gtag.js",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/apps/app_about.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/apps/app_guide.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/apps/app_single.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/lib.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/app_holder.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/index.py",
+		"/C/Users/maxws/Dropbox (MIT)/WSL/prj/personal-website/README.md",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/be_predict_bystander/predict.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/apps/app_efficiency.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/apps/app_batch.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/be_predict_efficiency/predict.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/assets/stylesheet.css",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/be_predict_bystander/models.csv",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/header.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/inDelphi-app/generalStats.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/inDelphi-app/apps/app_batch.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/requirements.txt",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/Pipfile",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/Pipfile.lock",
+		"/C/Users/maxws/Dropbox (MIT)/WSL/app-baseedit/apps/app_efficiency.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/inDelphi-app/apps/app_single.py",
+		"/C/Users/maxws/Dropbox (MIT)/WSL/app-baseedit/gettingstarted/settings.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_5_29/_multi_qsub_a_.log",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_5_27/b_demultiplex.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_5_26/a_split.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_5_28/_multi_qsub_a_.log",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_2_20/b_table.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_5_24/_config.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_5_23/c_count_grnas.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_5_22/b_demultiplex.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_5_21/a_split.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_2_16/b2_combine.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_2_19/get_ranges.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_2_18/do.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_2_17/_multi_qsub_a_.sh.o11824874",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_2_15/b_table.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_2_13/b_table.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_2_14/_multi_qsub_a_.sh",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_2_12/a_split.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_2_11/b_table.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_2_10/b2_combine.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_2_7/b_table.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_2_9/exp_design.csv",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_2_5/b_table.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_2_3/a_split.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_2_4/_config.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_2_1/b2_combine.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_2_2/a_split.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/264904_2_0/_config.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/be_predict_bystander/_test2.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/modules.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/5183498_2_169/predict.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/be_predict_bystander/model_ABE.py",
+		"/C/Users/maxws/Downloads/99-XX 1.04/Starry Night [Full Song]/Starry Night.ssc",
+		"/C/Users/maxws/Downloads/18-PRIME 2/1536 - Twist Of Fate (feat.-Ruriling)/1536 - Twist Of Fate - Jehezukiel.ssc",
+		"/C/Users/maxws/Downloads/Songs/Step Pack.txt",
+		"/C/Users/maxws/Downloads/StepF2/Songs/16-FIESTA 2/(1) 1304 - Baroque Virus/1304 - Baroque Virus.ssc",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/1968248_2_41/model_CBE.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/be_predict_bystander/params/_log_HEK293T_12kChar_ABE_0_190524_enc_64x2_dec_256x2_nc_r5_d0.05.out",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/1968248_2_40/combin_data_Y_imputewt.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/1968248_2_37/anyedit_gbtr.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/1968248_2_39/anyedit_data.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/1968248_2_38/gen_traintest_idxs.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/1968248_2_36/anyedit_data.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/1968248_2_35/be_rarefrac_CBE_models.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/1968248_2_34/_multi_qsub_c_.log",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/1968248_2_27/README.md",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/1968248_2_26/README.md",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/1968248_2_25/__init__.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/1968248_2_24/__init__.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/1968248_2_23/predict.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/inDelphi-app/index.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/README.md",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_28/predict.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_44/README.md",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_42/model_ABE.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_43/c_ag_res_abe.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_41/_car_abe_noimport_190524.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_39/model_ABE.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_40/model_CBE.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_27/model.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_38/_predict.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_35/_transfer_params.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_31/_predict.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_34/_transfer_params.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_30/_transfer_params.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_33/_log_HEK293T_12kChar_BE4_0_190524_enc_64x2_dec_256x2_nc_r5_d0.05.out",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_32/models.csv",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_26/_predict.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_25/_car_cbe_noimport_190524.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_21/_predict.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_22/_car_pred_other_libs.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_23/_car_cbe_noimport_190524.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/inDelphi-app/Pipfile",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_24/_car_abe_noimport_190524.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/gettingstarted/settings.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/inDelphi-app/Pipfile.lock",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/manage.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/app.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/generalStats.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/apps/app_termsofuse.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/test.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/inDelphi-app/worker.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/inDelphi-app/header.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/inDelphi-app/manage.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/inDelphi-app/inDelphi.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/inDelphi-app/lib.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/inDelphi-app/indelphi_app.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/inDelphi-app/gettingstarted/settings.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/inDelphi-app/apps/__init__.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/inDelphi-app/dash/test.txt",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/inDelphi-app/test.py",
+		"/C/Users/maxws/Dropbox (MIT)/wsl/inDelphi-app/Procfile",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_16/fig_motif_heatmap_abe_efficiency.py",
+		"/C/Users/maxws/OneDrive/Documents/temp_sublime/treatments.txt",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_3_11/_data.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_17/fig_motif_heatmap_cbe_efficiency.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_20/fig_motif_abe_efficiency.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_19/fig_motif_cbe_efficiency.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_18/fig_motif_abe_efficiency.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_14/fig_motif_heatmap_cbe_trans.py",
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_15/fig_motif_cbe_efficiency.py"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 96.0
+	},
+	"pinned_build_system": "",
+	"project": "personal-website.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sh",
+				"C:\\Users\\maxws\\OneDrive\\Documents\\MobaXterm\\slash\\RemoteFiles\\460736_8_11\\.my.bashrc"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 297.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
