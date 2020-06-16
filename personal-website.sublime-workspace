@@ -519,6 +519,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "css/skeleton.css",
+			"settings":
+			{
+				"buffer_size": 10346,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 14373,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -668,10 +686,15 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/maxws/Dropbox (MIT)/WSL/prj/personal-website"
+		"/C/Users/maxws/Dropbox (MIT)/WSL/prj/personal-website",
+		"/C/Users/maxws/Dropbox (MIT)/WSL/prj/personal-website/css"
 	],
 	"file_history":
 	[
+		"/C/Users/maxws/Dropbox (MIT)/WSL/prj/personal-website/serve.sh",
+		"/C/Users/maxws/Dropbox (MIT)/WSL/prj/personal-website/css/normalize.css",
+		"/C/Users/maxws/Downloads/Skeleton-2.0.4/index.html",
+		"/C/Users/maxws/AppData/Local/Temp/7zE80AD851B/index.html",
 		"/C/Users/maxws/Dropbox (MIT)/WSL/prj/personal-website/personal/themes/ananke/layouts/partials/page-header.html",
 		"/C/Users/maxws/Dropbox (MIT)/WSL/prj/personal-website/personal/config.toml",
 		"/C/Users/maxws/Dropbox (MIT)/WSL/prj/personal-website/personal/content/posts/first.md",
@@ -795,15 +818,11 @@
 		"/C/Users/maxws/OneDrive/Documents/temp_sublime/treatments.txt",
 		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_3_11/_data.py",
 		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_17/fig_motif_heatmap_cbe_efficiency.py",
-		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_20/fig_motif_abe_efficiency.py",
-		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_19/fig_motif_cbe_efficiency.py",
-		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_18/fig_motif_abe_efficiency.py",
-		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_14/fig_motif_heatmap_cbe_trans.py",
-		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_15/fig_motif_cbe_efficiency.py"
+		"/C/Users/maxws/OneDrive/Documents/MobaXterm/slash/RemoteFiles/3017262_2_20/fig_motif_abe_efficiency.py"
 	],
 	"find":
 	{
-		"height": 22.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -817,6 +836,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"potrait",
+			"causal inference",
+			"img",
+			"sherwood",
+			"http://sherwoodlab.bwh.harvard.edu/",
+			"sherwood",
+			"www."
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -834,8 +860,310 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "css/skeleton.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10346,
+						"regions":
+						{
+							"col_0FA0CEFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										4819,
+										4826
+									]
+								],
+								"scope": "col_0FA0CEFF"
+							},
+							"col_1EAEDBFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										4641,
+										4648
+									],
+									[
+										6331,
+										6338
+									],
+									[
+										6356,
+										6363
+									]
+								],
+								"scope": "col_1EAEDBFF"
+							},
+							"col_222222FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										3737,
+										3741
+									],
+									[
+										4664,
+										4671
+									],
+									[
+										9023,
+										9030
+									]
+								],
+								"scope": "col_222222FF"
+							},
+							"col_333333FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										5648,
+										5652
+									]
+								],
+								"scope": "col_333333FF"
+							},
+							"col_33C3F0FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										5885,
+										5892
+									],
+									[
+										5910,
+										5917
+									],
+									[
+										7443,
+										7450
+									]
+								],
+								"scope": "col_33C3F0FF"
+							},
+							"col_4E8F13FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										4708,
+										4715
+									]
+								],
+								"scope": "col_4E8F13FF"
+							},
+							"col_555555FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										5096,
+										5100
+									]
+								],
+								"scope": "col_555555FF"
+							},
+							"col_60AA14FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										4687,
+										4694
+									]
+								],
+								"scope": "col_60AA14FF"
+							},
+							"col_888888FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										5670,
+										5674
+									]
+								],
+								"scope": "col_888888FF"
+							},
+							"col_BBBBBBFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										5361,
+										5365
+									],
+									[
+										9489,
+										9496
+									]
+								],
+								"scope": "col_BBBBBBFF"
+							},
+							"col_D1D1D1FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										6744,
+										6751
+									]
+								],
+								"scope": "col_D1D1D1FF"
+							},
+							"col_E1E1E1FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										8249,
+										8256
+									],
+									[
+										8503,
+										8510
+									],
+									[
+										9453,
+										9460
+									]
+								],
+								"scope": "col_E1E1E1FF"
+							},
+							"col_E2247FFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										4840,
+										4847
+									]
+								],
+								"scope": "col_E2247FFF"
+							},
+							"col_F1F1F1FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										8220,
+										8227
+									]
+								],
+								"scope": "col_F1F1F1FF"
+							},
+							"col_FFFFFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										5859,
+										5863
+									],
+									[
+										6305,
+										6309
+									],
+									[
+										6718,
+										6722
+									]
+								],
+								"scope": "col_FFFFFFFF"
+							}
+						},
+						"selection":
+						[
+							[
+								1357,
+								1357
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 863.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14373,
+						"regions":
+						{
+							"col_F9F7EEFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1259,
+										1266
+									]
+								],
+								"scope": "col_F9F7EEFF"
+							}
+						},
+						"selection":
+						[
+							[
+								3074,
+								3074
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 580.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -856,11 +1184,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -924,7 +1259,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 297.0,
+	"side_bar_width": 191.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
