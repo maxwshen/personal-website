@@ -532,7 +532,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 14373,
+				"buffer_size": 14431,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -687,7 +687,9 @@
 	"expanded_folders":
 	[
 		"/C/Users/maxws/Dropbox (MIT)/WSL/prj/personal-website",
-		"/C/Users/maxws/Dropbox (MIT)/WSL/prj/personal-website/css"
+		"/C/Users/maxws/Dropbox (MIT)/WSL/prj/personal-website/assets",
+		"/C/Users/maxws/Dropbox (MIT)/WSL/prj/personal-website/css",
+		"/C/Users/maxws/Dropbox (MIT)/WSL/prj/personal-website/images"
 	],
 	"file_history":
 	[
@@ -1100,8 +1102,8 @@
 						"selection":
 						[
 							[
-								1357,
-								1357
+								2619,
+								2619
 							]
 						],
 						"settings":
@@ -1114,7 +1116,7 @@
 						"translation.y": 863.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -1129,7 +1131,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 14373,
+						"buffer_size": 14431,
 						"regions":
 						{
 							"col_F9F7EEFF":
@@ -1148,20 +1150,22 @@
 						"selection":
 						[
 							[
-								3074,
-								3074
+								5302,
+								5302
 							]
 						],
 						"settings":
 						{
 							"auto_complete": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 580.0,
+						"translation.y": 1725.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -1169,7 +1173,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 22.0
+		"height": 24.0
 	},
 	"input":
 	{
@@ -1205,6 +1209,10 @@
 		]
 	},
 	"menu_visible": false,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
@@ -1217,7 +1225,7 @@
 	"project": "personal-website.sublime-project",
 	"replace":
 	{
-		"height": 40.0
+		"height": 44.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1251,7 +1259,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
