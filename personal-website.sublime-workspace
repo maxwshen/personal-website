@@ -532,7 +532,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 14509,
+				"buffer_size": 14655,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -693,6 +693,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/maxws/Dropbox (MIT)/WSL/prj/personal-website/README.md",
 		"/C/Users/maxws/Dropbox (MIT)/WSL/prj/personal-website/serve.sh",
 		"/C/Users/maxws/Dropbox (MIT)/WSL/prj/personal-website/css/normalize.css",
 		"/C/Users/maxws/Downloads/Skeleton-2.0.4/index.html",
@@ -709,7 +710,6 @@
 		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/lib.py",
 		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/app_holder.py",
 		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/index.py",
-		"/C/Users/maxws/Dropbox (MIT)/WSL/prj/personal-website/README.md",
 		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/be_predict_bystander/predict.py",
 		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/apps/app_efficiency.py",
 		"/C/Users/maxws/Dropbox (MIT)/wsl/app-baseedit/apps/app_batch.py",
@@ -1102,8 +1102,8 @@
 						"selection":
 						[
 							[
-								2619,
-								2619
+								1926,
+								1926
 							]
 						],
 						"settings":
@@ -1131,7 +1131,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 14509,
+						"buffer_size": 14655,
 						"regions":
 						{
 							"col_F9F7EEFF":
@@ -1150,8 +1150,8 @@
 						"selection":
 						[
 							[
-								5303,
-								5303
+								4001,
+								4001
 							]
 						],
 						"settings":
@@ -1162,7 +1162,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1905.0,
+						"translation.y": 1515.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
